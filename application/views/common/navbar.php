@@ -20,7 +20,7 @@
         <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
           aria-haspopup="true" aria-expanded="false">Cadastro</a>
         <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Usuário</a>
+          <a class="dropdown-item" href="<?=base_url('Usuario.php') ?>">Usuário</a>
           <a class="dropdown-item" href="#">Conta Bancária</a>
           <a class="dropdown-item" href="#">Parceiros</a>
         </div>
